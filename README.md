@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamsonBoston
-- 👀 I’m interested in Data Application which will improve business and personal life. Life is short so make a big difference
+- 👀 I’m interested in Data Applications which will improve business and personal life. Life is short so make a big difference
 - 🌱 I’m currently learning Streamlit as data framework to deliver data application
 - 💞️ I’m looking to collaborate on anything related to data/analytics/human behavior psychology
 - 📫 How to reach me ..
